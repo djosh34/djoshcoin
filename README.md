@@ -16,12 +16,10 @@ Djoshcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - 2.5 coins per block
  - 120 blocks to retarget difficulty
 
-How to build Djoshcoin?
+Dependencies
 ----------------
 
-Dependencies:
-
-----------------
+'''
   sudo apt-get install git
 
   sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
@@ -45,10 +43,13 @@ Dependencies:
   sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
 
   sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
+'''
 
 Building:
 ----------------
+'''
   cd src/
   make -f makefile.unix		# Headless Djoshcoin
+'''
 
 See readme-qt.rst for instructions on building Djoshcoin-Qt, the graphical user interface.
