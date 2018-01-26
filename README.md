@@ -20,7 +20,9 @@ How to build Djoshcoin?
 ----------------
 
 Dependencies:
+
 ----------------
+
   sudo apt-get install git
 
   sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
