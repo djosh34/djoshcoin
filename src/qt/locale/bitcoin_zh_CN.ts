@@ -2245,8 +2245,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
-        <translation>监听端口连接 &lt;port&gt; (缺省: 2333 or testnet: 12333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 4233 or testnet: 14233)</source>
+        <translation>监听端口连接 &lt;port&gt; (缺省: 4233 or testnet: 14233)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2280,8 +2280,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
-        <translation>JSON-RPC连接监听端口&lt;port&gt; (缺省：2332　testnet：12332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 4232 or testnet: 14232)</source>
+        <translation>JSON-RPC连接监听端口&lt;port&gt; (缺省：4232　testnet：14232)</translation>
     </message>
     <message>
         <location line="+37"/>
