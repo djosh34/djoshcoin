@@ -24,6 +24,13 @@ Djoshcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - 2.5 coins per block
  - 120 blocks to retarget difficulty
  
+ 
+ports:
+
+Default:4233, Testnet:14233
+Defaultrpc:4232 , Testnetrpc:14232
+
+
 
 Dependencies
 ----------------
