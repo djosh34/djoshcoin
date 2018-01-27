@@ -8,6 +8,10 @@ Copyright (c) 2011-2014 Litecoin Developers
 
 Copyright (c) 2018      Djoshcoin Developers
 
+I want to be clear that Djoshcoin is not meant to be an premine. To mine this coin right now, you should clone the repository, 
+build it and run setgenerate true.
+
+
 What is Djoshcoin?
 ----------------
 
@@ -17,6 +21,7 @@ Djoshcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - ~21 million total coins
  - 2.5 coins per block
  - 120 blocks to retarget difficulty
+ 
 
 Dependencies
 ----------------
@@ -55,3 +60,13 @@ Building:
 ```
 
 See readme-qt.rst for instructions on building Djoshcoin-Qt, the graphical user interface.
+
+Roadmap
+----------------
+
+- Create an block explorer
+- Create an mining pool
+- Add Djoshcoin to an exchange
+- Let the community run the project
+
+
