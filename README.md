@@ -11,6 +11,8 @@ Copyright (c) 2018      Djoshcoin Developers
 I want to be clear that Djoshcoin is not meant to be an premine. To mine this coin right now, you should clone the repository, 
 build it and run setgenerate true.
 
+Please add your node to the node list as an pull request.
+
 
 What is Djoshcoin?
 ----------------
@@ -60,6 +62,12 @@ Building:
 ```
 
 See readme-qt.rst for instructions on building Djoshcoin-Qt, the graphical user interface.
+
+In your djoshcoin.conf file add
+```
+  addnode=136.144.168.39
+```
+
 
 Roadmap
 ----------------
